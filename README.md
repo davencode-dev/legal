@@ -1,13 +1,13 @@
 # legal
 
-Public legal documents (privacy policies, terms of service) for the Posturly and Inkwell Android apps by [@davencode-dev](https://github.com/davencode-dev).
+Public legal documents (privacy policies, terms of service) for the PostureLoop and Penwell Android apps by [@davencode-dev](https://github.com/davencode-dev).
 
 Served at **https://davencode-dev.github.io/legal/** via GitHub Pages.
 
 ## Documents
 
-- [Posturly — Privacy Policy](./posturly/privacy-policy.md) → https://davencode-dev.github.io/legal/posturly/privacy-policy
-- [Inkwell — Privacy Policy](./inkwell/privacy-policy.md) → https://davencode-dev.github.io/legal/inkwell/privacy-policy
+- [PostureLoop — Privacy Policy](./postureloop/privacy-policy.md) → https://davencode-dev.github.io/legal/postureloop/privacy-policy
+- [Penwell — Privacy Policy](./penwell/privacy-policy.md) → https://davencode-dev.github.io/legal/penwell/privacy-policy
 
 ## Updating
 

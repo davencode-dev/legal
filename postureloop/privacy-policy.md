@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Posturly — Privacy Policy
+title: PostureLoop — Privacy Policy
 ---
 
-# Posturly — Privacy Policy
+# PostureLoop — Privacy Policy
 
 **Last updated: 20 April 2026**
 
-This Privacy Policy describes how **Posturly** (the "app") handles information.
+This Privacy Policy describes how **PostureLoop** (the "app") handles information.
 
-Posturly is developed and operated by an independent developer based in Spain. Contact: **vendrell.dev@gmail.com**.
+PostureLoop is developed and operated by an independent developer based in Spain. Contact: **vendrell.dev@gmail.com**.
 
 ## Summary in one paragraph
 
-Posturly v1.0 does **not** collect, store, or transmit any personal data off your device. All stretching progress, reminder settings, and preferences are stored locally on your device using Android's standard app storage. The app contains no analytics SDKs, no advertising SDKs, and does not communicate with any third-party servers.
+PostureLoop v1.0 does **not** collect, store, or transmit any personal data off your device. All stretching progress, reminder settings, and preferences are stored locally on your device using Android's standard app storage. The app contains no analytics SDKs, no advertising SDKs, and does not communicate with any third-party servers.
 
 ## What the app stores on your device
 
@@ -33,7 +33,7 @@ You can delete all of this data at any time by uninstalling the app or by using 
 
 ## Permissions requested
 
-- **POST_NOTIFICATIONS** (Android 13+): required to show your stretching reminders. You can revoke this at any time in Android Settings → Apps → Posturly → Notifications.
+- **POST_NOTIFICATIONS** (Android 13+): required to show your stretching reminders. You can revoke this at any time in Android Settings → Apps → PostureLoop → Notifications.
 - **Foreground service (notification-related)**: required to make reminders survive aggressive battery optimization on some Android manufacturers (Xiaomi MIUI, Samsung One UI, Oppo ColorOS, Huawei EMUI). No data is collected via this service.
 
 The app does **not** request internet, camera, location, contacts, storage, calendar, or body-sensor permissions in v1.0.
@@ -48,19 +48,19 @@ Future versions may introduce optional features (calendar integration, camera-ba
 
 ## Third parties and data sharing
 
-Posturly v1.0 does not share data with any third party, because Posturly does not collect any data to share.
+PostureLoop v1.0 does not share data with any third party, because PostureLoop does not collect any data to share.
 
 ## Children
 
-Posturly is not directed at children under 16. The app is listed on Google Play with a target audience of 18+.
+PostureLoop is not directed at children under 16. The app is listed on Google Play with a target audience of 18+.
 
 ## Health disclaimer
 
-Posturly is a general wellness application. It is **not** a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional before starting any new exercise routine. If you experience pain, stop the stretch and consult a professional.
+PostureLoop is a general wellness application. It is **not** a medical device and does not diagnose, treat, cure, or prevent any medical condition. Always consult a qualified healthcare professional before starting any new exercise routine. If you experience pain, stop the stretch and consult a professional.
 
 ## Your rights under GDPR and UK GDPR
 
-Because Posturly v1.0 does not collect personal data, there is no stored personal data to access, rectify, port, or delete. If this changes in future versions, this section will describe how to exercise those rights. You always have the right to contact the developer with questions at **vendrell.dev@gmail.com**.
+Because PostureLoop v1.0 does not collect personal data, there is no stored personal data to access, rectify, port, or delete. If this changes in future versions, this section will describe how to exercise those rights. You always have the right to contact the developer with questions at **vendrell.dev@gmail.com**.
 
 ## Changes to this policy
 

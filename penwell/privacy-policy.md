@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Inkwell — Privacy Policy
+title: Penwell — Privacy Policy
 ---
 
-# Inkwell — Privacy Policy
+# Penwell — Privacy Policy
 
 **Last updated: 20 April 2026**
 
-This Privacy Policy describes how **Inkwell** (the "app") handles your journal entries and related information.
+This Privacy Policy describes how **Penwell** (the "app") handles your journal entries and related information.
 
-Inkwell is developed and operated by an independent developer based in Spain. Contact: **vendrell.dev@gmail.com**.
+Penwell is developed and operated by an independent developer based in Spain. Contact: **vendrell.dev@gmail.com**.
 
 ## Summary in one paragraph
 
@@ -74,11 +74,11 @@ You have the right to:
 
 ## Children
 
-Inkwell is not directed at children. Target audience on Google Play: 18+.
+Penwell is not directed at children. Target audience on Google Play: 18+.
 
 ## Not a medical or therapeutic service
 
-Inkwell is a journaling tool, not a mental-health or therapy service. If you are experiencing a crisis, please contact local emergency services or an appropriate helpline (e.g., **024** in Spain; **112** across the EU; **988** in the US).
+Penwell is a journaling tool, not a mental-health or therapy service. If you are experiencing a crisis, please contact local emergency services or an appropriate helpline (e.g., **024** in Spain; **112** across the EU; **988** in the US).
 
 ## Changes to this policy
 
